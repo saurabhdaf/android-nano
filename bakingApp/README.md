@@ -6,7 +6,7 @@ This project demonstrates the use of Retrofit, Room, ViewModel, LiveData, Reposi
 and master-details flow, widgets and espresso tests.
 
 
-Also in this project we have included App Navigation for allowing the navigation between the recepies
+Also in this project we have included App Navigation for allowing the navigation between the recepies.and allowing thehome screen feature
 
 ### Credits:
 Launch icon is taken from the site: www.shareicon.net.
