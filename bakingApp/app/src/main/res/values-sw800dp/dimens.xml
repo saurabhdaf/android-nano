@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_standard">20dp</dimen>
+    <dimen name="half_margin">12dp</dimen>
+    <dimen name="padding_standard">16dp</dimen>
+    <dimen name="half_padding">8dp</dimen>
+    <dimen name="masterlist_width">400dp</dimen>
+    <dimen name="ingredient_item_quantity">60dp</dimen>
+    <dimen name="ingredient_item_unit">50dp</dimen>
+    <dimen name="details_thumbnail_height">450dp</dimen>
+    <dimen name="details_thumbnail_width">450dp</dimen>
+    <dimen name="steps_details_text_height">80dp</dimen>
+</resources>
