@@ -5,7 +5,7 @@ In this project im developing the Sandwichclubapp. Although JSON parsing is usua
 
 ## What Will I Learn?
 
-* Tn this project i am learn to how submit projects for review.
+* In this project I am learn to how submit projects for review.
 * Practices of json parsing and how to make complete module using Json parsing
 * Also see the designing of activity layout
 * And polulate the all fields in the application layout
