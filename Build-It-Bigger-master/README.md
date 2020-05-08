@@ -1,40 +1,28 @@
-# Build It Bigger project Submitted for Udacity Android Nanodegree
+# Project Build-it-Bigger
+This is most Taughest Project but i have completed
 
-Project 4 of Udacity's Android Nanodegree program.
+# project objective
 
-# Objective
 
-To learn the role of Gradle in building Android Apps and how to use
+In this Project I am see that how to Ggradle build and all Syncronization process during gradle build. Gradle is Most important part of an android Application Development because without gradle project not run and not assing to emulator due to the reason of errorness.
 Gradle to manage apps of increasing complexity.
-To also learn to:
 
-* Add free and paid flavors to an app, and set up your build to share code between them
-* Factor reusable functionality into a Java library
-* Factor reusable Android functionality into an Android library
-* Configure a multi project build to compile your libraries and app
-* Use the Gradle App Engine plugin to deploy a backend
-* Configure an integration test suite that runs against the local App Engine development server
+## To also learn to:
+* Also see the Free and Paid version,and set up your build to share code between them
+* reusable functionality into a Java library.java supports reusability feature.
+* reusable Android functionality into an Android library.In android resusability is support.
+* Use the Gradle App Engine plugin to deploy a backend.In banckend i use the cloud for accesing the data and also used the API.
 
-# End Result
-
-
-
-* The finished app will consist of four modules.
-  * A Java library that provides jokes,
-  * A Google Could Endpoints(GCE) project that serves those jokes,
-  * An Android Library containing an activity for displaying jokes,
-  * An Android app that fetches jokes from the GCE module and passes them to the Android Library for display
+# End of the Project
+* the apllication can be consists in many modules.
+  * In this project  Java libraries that provides jokes.
+  * A Google Could Endpoints(GCE) through project serves those jokes,
+  * This application Android Library containing an activity for displaying jokes.Jokes is most important in this application 
+  * Android apllication fetches the  jokes from the GCE module and passes them to the Android Library for display those jokes.
   
   
 # Paid Version
-
-MainActivity | LibraryActivity
-
-<img src="https://user-images.githubusercontent.com/10702944/34324732-a97a6e74-e831-11e7-81ff-a64292783d91.png" height="500"/>  <img src="https://user-images.githubusercontent.com/10702944/34324733-a9902296-e831-11e7-85fe-6b19cdde9840.png" height="500"/>
-
+In paid vesion the adds does not be pop up to the phone 
 
 # Free Version
-
-MainActivity | LibraryActivity
-
-<img src="https://user-images.githubusercontent.com/10702944/34324734-a9a53d66-e831-11e7-88b9-76a3644f52b3.png" height="500"/>  <img src="https://user-images.githubusercontent.com/10702944/34324735-a9bc9948-e831-11e7-8efa-d5db343c926c.png" height="500"/>
+In paid vesion the adds can be come in to the phone
